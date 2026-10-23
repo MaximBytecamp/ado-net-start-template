@@ -30,7 +30,7 @@ ado-net-start/
 ├── docker-compose.yml   база заказов в Docker (ведёт преподаватель)
 ├── db/                  таблицы и строки базы (ведёт преподаватель)
 ├── practice/            работы на занятиях: одна папка на занятие
-├── homework/            домашние задания
+├── homework/            домашние задания, первое — ДЗ 0 «Первый проект на .NET»
 ├── exams/               тесты и контрольные работы
 ├── lectures/            конспекты занятий (ведёт преподаватель)
 ├── materials/           файлы с занятий (ведёт преподаватель)
@@ -49,6 +49,7 @@ dotnet run
 
 Что установить для запуска: .NET 10 SDK и Docker, инструкция —
 [установка .NET 10 SDK и Docker](https://algorthimization-course-vvodnoe.vercel.app/mdk0111-ado-net/ustanovka/index.html).
+После установки выполните [ДЗ 0](homework/00-first-project/README.md): проект HelloApp и проверка базы.
 
 ## Материалы курса
 
